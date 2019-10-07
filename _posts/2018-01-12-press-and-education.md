@@ -2,7 +2,7 @@
 layout: post
 title:  "Press and education"
 author: sal
-categories: [ Jekyll, tutorial ]
+categories: [ ]
 image: assets/images/7.jpg
 hidden: true
 ---
