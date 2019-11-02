@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Powerful things you can do with the Markdown editor"
+title:  "Can you relate to this story"
 author: sal
 categories: [ ]
 image: assets/images/16.jpg
