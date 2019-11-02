@@ -3,7 +3,7 @@ layout: post
 title:  "iSuck@Hiring"
 author: sal
 categories: [ ]
-image: assets/images/12.jpg
+image: assets/images/conf1.jpg
 featured: true
 hidden: true
 ---
