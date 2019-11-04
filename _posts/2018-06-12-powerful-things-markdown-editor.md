@@ -1,105 +1,21 @@
 ---
 layout: post
-title:  "Can you relate to this story"
+title:  "How Do You Know You’ve Downgraded"
 author: sal
 categories: [ ]
-image: assets/images/16.jpg
+image: assets/images/up-down1.jpg
+featured: true
 hidden: true
 ---
-There are lots of powerful things you can do with the Markdown editor. If you've gotten pretty comfortable with writing in Markdown, then you may enjoy some more advanced tips about the types of things you can do with Markdown!
 
-As with the last post about the editor, you'll want to be actually editing this post as you read it so that you can see all the Markdown code we're using.
+## Absent
 
+On Monday morning May 24th 2011 a young black kid named Jeremiah turned the tassel on his cap. He was graduating from college but he didn’t attend the ceremony he was watching the event from his Hewlett Packard laptop which appears to have had a rougher time through college than thim. Jeremiah felt the ceremony was a waste of time and wanted to get his business degree so he could launch his brand new business. A close friend of his whom he calls Ricky was graduating at a neighboring school and he decided not to attend his graduation as well because he was already enrolled in an accelerated graduate program and had class that day. Jeremiah spent the majority of his senior year writing his business plan by strategically persuading all his professors to consider his personal project as a credible assignment that counts towards his final grade. His grand idea was to build a personal network expanding service that helped people find others that share very similar interests but work in complementing industries. For example if there was a nurse who really enjoyed playing chess and had a growing interest in learning about neuroscience and a neuroscientist who enjoyed playing chess as well with a growing interest to learn about nursing Jeremiah would be the key matchmaker that arranged their introduction and future meetings. Jeremiah spent months designing his matchmaking engine that he called his secret sauce for helping people find highly compatible strangers that can add mutual value to each other's lives. Since he didn’t have a lot of money to launch the full operation of the business Jeremiah decided to get the first job he got offered which was a data analyst role at a firm that owned a portfolio of laundromats. He hated his job but it was not worse than Ricky’s who worked at a call center where he had to sell an obscure brand of diapers to nursing homes. One weekend Ricky and Jeremiah met up at an asian buffet restaurant, their location of choice especially on Sunday, early in the morning before the church crowd rushes in during the afternoon. They sit down after piling their plates with enormous amounts of food and Ricky says, “Hey how's work and the side-gig biz going?”. Jeremiah grunts and responds, “I countdown the hours during the day and I’m wired on red bull when I get home, working on the business plan.” Rick knows what he’ll say next will piss Jeremiah off but he doesn’t care, as he says, “Bro let that shit go if I were in your shoes I would be looking for a better job at a company that already has a working business pl...” before Ricky could finish his sentence Jeremiah shouts, “You don’t know what the hell your talking about, if you knew how much work it takes you wouldn’t be talking shit!”. “I’m just giving you my two cents, its worth more than that business plan your taking forever to finish” said Ricky. He quickly ducks as Jeremiah tossed a beef dumpling at his head. “Listen man I’m already hearing decent companies call me and I haven’t even finished grad school. Theres alot of opportunity out there” said Ricky as he takes a sip of his mimosa. Jeremiah always has a reference to recent articles he read that helps support a point he wants to drive home. He explains to Ricky that every endeavor has a teaching opportunity and as long as a person is learning and heading in a direction that produces measurable wins then thats what matters most. Ricky nods and changes the subject to sports and they spend another hour debating whose more successful NBA or NFL players. Not too long after the church crowd started to make their way in and the guys quickly pay for their meals and start heading out. 
 
-## Special formatting
+## Time To Downgrade
 
-As well as bold and italics, you can also use some other special formatting in Markdown when the need arises, for example:
+A few years later several major events transpire. Jeremiah launched his business and started attending trade shows and conferences to market his launch. A few people expressed interest but not a single person followed up. Jeremiah even offered free trials and deep discounts for early adopters yet people did not see the value in meeting strangers, some people suggested that he turn the business into a dating service and Jeremiah smiled painfully while telling himself people cannot be this basic. Meanwhile, Ricky got a much better job before finishing his graduate program and has been promoted several times. Ricky saw his ascent as something he always knew was going to happen and it was only a matter of time until the right opportunity presented itself so he could prove himself to a company that was willing to bet on him. Jeremiah ended up quitting his data analyst job to work at a nursing home as a caretaker who looked after seniors that were pretty self sufficient. He did this to find a low demanding job that would provide him enough to sustain himself and more time to focus on his failing business. As time went on Jeremiah questioned whether downgrading his job would permanently damage his future career prospects. Ricky would advise him that the idea of taking a role he was overqualified for never crossed his mind and he would never consider doing that even in a financial crisis. Ricky never allowed people to see him in a vulnerable position to the point where Jeremiah wasn’t sure if he was projecting a macho man image or its some narcissistic confidence where he doesn’t plan for failure in any way. Jeremiah knew the core reason why he took the lesser role was to allow time for one final effort to validate whether his business was viable. It didn’t take long before he found the answer. Reality hit Jeremiah hard when he ran out of money and it was clear that his business was not going to take off. Despite the deep despair he continued to attend trade shows and conferences to connect with people that provided constructive feedback for his business and were willing to coach him on how to find product market fit. He started attending meetings with a group of other business owners as they shared stories of techniques and strategies they made that led to both failed and successful businesses. In one session a lady talked about how she designed a business that allowed professionals to plan business meetings without having to go back and forth to find available times. Her service was basically a more simplified and targeted version of Jeremiah’s matchmaking engine. He realized how critical it was to understand exactly what people need before building a complicated business. In the middle of his mental awakening Jeremiah gets a call from Ricky. “Hey J, theres this dude that keeps calling trying to get me to join this company. Its an awesome place to work but I just got a massive bonus on a deal I closed and if I leave within the year I won’t get to keep all of it, so give this guy a call when you get a chance”. Jeremiah felt unprepared yet he knew he had what it takes. The least he could do was entertain the opportunity, the worst thing they could do is say no and tell him he is the worst candidate they ever interviewed(Jeremiah enjoys exaggerating worst case scenarios). He thanks Ricky for the referral and heads out of the meeting, straight home to start preparing for the interview. The more Jeremiah researched the company the more daunting the opportunity seemed. How would he explain the downgrade from data analyst to nursing home caretaker? Will the person who will interview him know that his business failed? Does he have the relevant skills for a role he knows he is not fully qualified for? These questions and variations of them filled his mind as he writes down word for word his rebuttals. 
 
-+ ~~strike through~~
-+ ==highlight==
-+ \*escaped characters\*
+## UnEmployed And Winning
 
-
-## Writing code blocks
-
-There are two types of code elements which can be inserted in Markdown, the first is inline, and the other is block. Inline code is formatted by wrapping any word or words in back-ticks, `like this`. Larger snippets of code can be displayed across multiple lines using triple back ticks:
-
-```
-.my-link {
-    text-decoration: underline;
-}
-```
-
-#### HTML
-
-```html
-<li class="ml-1 mr-1">
-    <a target="_blank" href="#">
-    <i class="fab fa-twitter"></i>
-    </a>
-</li>
-```
-
-#### CSS
-
-```css
-.highlight .c {
-    color: #999988;
-    font-style: italic;
-}
-.highlight .err {
-    color: #a61717;
-    background-color: #e3d2d2;
-}
-```
-
-#### JS
-
-```js
-// alertbar later
-$(document).scroll(function () {
-    var y = $(this).scrollTop();
-    if (y > 280) {
-        $('.alertbar').fadeIn();
-    } else {
-        $('.alertbar').fadeOut();
-    }
-});
-```
-
-#### Python
-
-```python
-print("Hello World")
-```
-
-#### Ruby
-
-```ruby
-require 'redcarpet'
-markdown = Redcarpet.new("Hello World!")
-puts markdown.to_html
-```
-
-#### C
-
-```c
-printf("Hello World");
-```
-
-
-
-
-![walking]({{ site.baseurl }}/assets/images/8.jpg)
-
-## Reference lists
-
-The quick brown jumped over the lazy.
-
-Another way to insert links in markdown is using reference lists. You might want to use this style of linking to cite reference material in a Wikipedia-style. All of the links are listed at the end of the document, so you can maintain full separation between content and its source or reference.
-
-## Full HTML
-
-Perhaps the best part of Markdown is that you're never limited to just Markdown. You can write HTML directly in the Markdown editor and it will just work as HTML usually does. No limits! Here's a standard YouTube embed code as an example:
-
-<p><iframe style="width:100%;" height="315" src="https://www.youtube.com/embed/Cniqsc9QfDo?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe></p>
+An email notification alerts Jeremiah and he discovers that there are 5 interviews scheduled, each three days apart not including weekends. The initial phone screen with the company’s executive assistant was not counted and that conversation was a light assessment. As Jeremiah completed one interview after another he started to question his performance as they increasingly started to become more difficult. The third interview was rough but he recovered and the fifth interview was the hardest so far as he had to describe how he would pitch a product to a room full of investors that received a briefing that the market for the product was highly saturated and competitive. After the pitch with sweat dripping down his back the panel decided they would reconvene and notify Jeremiah of the outcome. Strangely the next day several hours after midnight Jeremiah receives an email stating the company will provide feedback at noon. Thanks to that email Jeremiah was not going to go back to sleep. He stayed up and contemplated all the possible scenarios. How will this job impact his life? Will his identity change due to someone else determining if he is fit for the role? Why should an external force determine the trajectory of his destiny? “That should never be the case!” shouts Jeremiah. He realized that any transformative event thats outside of his control does not determine whether he has upgraded or downgraded. The only way he can truly downgrade is if he decides that he no longer wants to pursue something he truly desires. Yes his business failed but its not a defining event. Yes the company can decline him for this role but it does not prevent future opportunities. The ability to pursue a goal is within his full control and as long as the fire that burns within him does not go out, he can never downgrade. This realization allowed Jeremiah to confidently suppress the anxiety of the potential outcomes of the call he was expecting at noon. Time passes and he hears nothing. Later that evening Jeremiah reflects on the call that never happened. He did not reach out to the executive assistant to ask why he never received a phone call. He continued reading books on business and how to identify unique market opportunities.
